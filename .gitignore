@@ -1,0 +1,10 @@
+.env
+data/raw/
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+venv/
+node_modules/
+frontend/node_modules/
+.DS_Store

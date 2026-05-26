@@ -1,0 +1,12 @@
+{
+  "model_name": "Logistic Regression",
+  "accuracy": 0.5938,
+  "cv_mean": 0.5968,
+  "cv_std": 0.0202,
+  "f1_macro": 0.4583,
+  "goals_model": "Poisson GLM (statsmodels)",
+  "poisson_home_mae": 1.0495,
+  "poisson_home_rmse": 1.3816,
+  "poisson_away_mae": 0.8774,
+  "poisson_away_rmse": 1.1753
+}

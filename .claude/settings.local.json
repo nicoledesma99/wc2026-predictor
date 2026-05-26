@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip install *)",
+      "Bash(python src/data/fetch_historical.py)",
+      "Bash(python src/data/enrich_teams.py)"
+    ]
+  }
+}
